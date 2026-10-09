@@ -1,0 +1,6 @@
+{
+  "name": "MyPertamina Pay",
+  "description": "Aplikasi dompet digital dan transaksi terintegrasi MyPertamina Pay dengan fitur Saldo Utama, Tabungan, Transfer, Shopee, dan Riwayat Transaksi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
